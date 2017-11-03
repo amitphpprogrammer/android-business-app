@@ -1,4 +1,9 @@
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+
+<RelativeLayout
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -40,5 +45,75 @@
         android:layout_height="wrap_content"
         android:text="Professional custom website design starts with a through understanding of both your business and the goals you have for your site, now and in the future. Your unique image and your distinctive business proposition are represented to your potential customers by the best website design." />
 
+    <TextView
+        android:paddingTop="10dp"
+        android:id="@+id/heading3_service"
+        android:layout_below="@+id/heading2_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Responsive Web Design"
+        android:textSize="18dp"
+        />
+
+    <TextView
+        android:id="@+id/heading3_text"
+        android:layout_below="@+id/heading3_service"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Responsive Web Design (RWD) is a device-independent UI (user interface) design philosophy that aims to develop and deliver an optimized website experience on devices with different widths and different resolutions: PC, notebook, tablet, smart phone, etc." />
+
+    <TextView
+        android:paddingTop="10dp"
+        android:id="@+id/heading4_service"
+        android:layout_below="@+id/heading3_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Content Management System"
+        android:textSize="18dp"
+        />
+
+    <TextView
+        android:id="@+id/heading4_text"
+        android:layout_below="@+id/heading4_service"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="A CMS can be perceived as a hybrid technology of website maintenance and document management system – The delivery, addition, modification or deletion of new or updated content can be achieved simultaneously from different points." />
+
+    <TextView
+        android:paddingTop="10dp"
+        android:id="@+id/heading5_service"
+        android:layout_below="@+id/heading4_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Search Engine Optimization"
+        android:textSize="18dp"
+        />
+
+    <TextView
+        android:id="@+id/heading5_text"
+        android:layout_below="@+id/heading5_service"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Search engine optimization (SEO) can potentially improve your site and save time. It is the art and science of making sure your site is found by real customers and clients when they look for a product or service like yours using a search engine." />
+
+    <TextView
+        android:paddingTop="10dp"
+        android:id="@+id/heading6_service"
+        android:layout_below="@+id/heading5_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Social Media Optimization"
+        android:textSize="18dp"
+        />
+
+    <TextView
+        android:id="@+id/heading6_text"
+        android:layout_below="@+id/heading6_service"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Social Media Optimization or Social SEO is the methodization of social media activity with the intent of attracting unique visitors to website content. It is a highly effective online marketing tool. SME not only provides the direct communication environment with customers but also generates a number of backlinksback links to a website." />
+
 
 </RelativeLayout>
+
+</ScrollView>
