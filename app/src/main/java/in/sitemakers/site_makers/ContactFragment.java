@@ -1,21 +1,16 @@
-package in.sitemakers.sitemakers;
+package in.sitemakers.site_makers;
 
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
-import android.app.Activity;
 import android.content.Intent;
-import android.os.Bundle;
-import android.text.Html;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.EditText;
-import android.graphics.Typeface;
-import android.widget.TextView;
 
 /**
  * Created by Amit Gupta on 10/24/2017.

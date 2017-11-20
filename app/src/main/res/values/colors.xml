@@ -5,4 +5,5 @@
     <color name="colorAccent">#FF4081</color>
     <color name="colorBgHome">#DF0031</color>
     <color name="colorTextHome">#ffffff</color>
+    <color name="colorTitle">#313131</color>
 </resources>

@@ -7,7 +7,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="in.sitemakers.sitemakers.AboutFragment"
+    tools:context="in.sitemakers.site_makers.AboutFragment"
     >
 
     <ImageView

@@ -1,4 +1,4 @@
-package in.sitemakers.sitemakers;
+package in.sitemakers.site_makers;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
