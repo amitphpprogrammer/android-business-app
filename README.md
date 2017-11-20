@@ -18,8 +18,8 @@
 
 
 
-  <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/frameworks-d7137690e30123bade38abb082ac79f36cc7a105ff92e602405f53b725465cab.css" integrity="sha256-1xN2kOMBI7reOKuwgqx582zHoQX/kuYCQF9TtyVGXKs=" media="all" rel="stylesheet" />
-  <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github-2d19ad5f2a5a684508c8088d445c51eb85a1080388b83e7cc2e5b5af11a82951.css" integrity="sha256-LRmtXypaaEUIyAiNRFxR64WhCAOIuD58wuW1rxGoKVE=" media="all" rel="stylesheet" />
+  <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/frameworks-c9193575f18b28be82c0a963e144ff6fa7a809dd8ae003a1d1e5979bed3f7f00.css" integrity="sha256-yRk1dfGLKL6CwKlj4UT/b6eoCd2K4AOh0eWXm+0/fwA=" media="all" rel="stylesheet" />
+  <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github-8ffe4331a8d2d413bfa465c56c4cc7466b011bcb5a8f74aab9081362ee31f862.css" integrity="sha256-j/5DMajS1BO/pGXFbEzHRmsBG8taj3SquQgTYu4x+GI=" media="all" rel="stylesheet" />
   
   
   
@@ -27,7 +27,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>android-business-app/README.md at master · amitphpprogrammer/android-business-app</title>
+  <title>android-business-app/README.md at 6c962208dcee1470b46c945fd7bf26b91d2729f0 · amitphpprogrammer/android-business-app</title>
   <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
@@ -36,10 +36,10 @@
     <meta content="https://avatars2.githubusercontent.com/u/30019110?s=400&amp;v=4" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="amitphpprogrammer/android-business-app" property="og:title" /><meta content="https://github.com/amitphpprogrammer/android-business-app" property="og:url" /><meta content="android-business-app - Simple Android Business App with Home Page, About Us Page and Contact Page" property="og:description" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjE5MTMyMzk4OjAyMTA3YmJhYzE0OGVjNDAzOGNhNWVmMTM4MmZmNzYwNjc5MWFjMzAzYmVhZmRkZGVjYzA5MjliYTY2MTUwYWM=--e8b343b8646adee60520ee27e7965111bcaf30a8">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjIzOTI1MDE4OmRjNjU5MDQ2ZWE1YjJjOTFlNTc4NTZjMjIzYTUyZTk3NGM5ODE3YTEyY2E2NDMzY2U2NmI4NmU2YmE4NTc3MzQ=--6960fcee5d2aac1cb169e42f4deb99203a2f44e0">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="D112:277A5:39A345:621B28:59FBD2C1" data-pjax-transient>
+  <meta name="request-id" content="D080:6E5C:12AB3F4:21D5B7B:5A12F5E1" data-pjax-transient>
   
 
   <meta name="selected-link" value="repo_source" data-pjax-transient>
@@ -48,7 +48,7 @@
 <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="D112:277A5:39A345:621B28:59FBD2C1" name="octolytics-dimension-request_id" /><meta content="iad" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="30019110" name="octolytics-actor-id" /><meta content="amitphpprogrammer" name="octolytics-actor-login" /><meta content="ad0f20bbaa385a375c550ee2959768f254592c155d2b3502d80e7303c7c22cbb" name="octolytics-actor-hash" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="D080:6E5C:12AB3F4:21D5B7B:5A12F5E1" name="octolytics-dimension-request_id" /><meta content="iad" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="30019110" name="octolytics-actor-id" /><meta content="amitphpprogrammer" name="octolytics-actor-login" /><meta content="ad0f20bbaa385a375c550ee2959768f254592c155d2b3502d80e7303c7c22cbb" name="octolytics-actor-hash" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -63,16 +63,16 @@
   <meta name="user-login" content="amitphpprogrammer">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="Mjg3MjkzY2FjNWY2Njk5YzFjYmRlY2NjYTlkYjdhMTQyM2YzZGM0M2NkNGYzM2JhZmRkMTRiNzI5MWQwMWNjZXx7InJlbW90ZV9hZGRyZXNzIjoiMjcuMjU1LjE4NS4xIiwicmVxdWVzdF9pZCI6IkQxMTI6Mjc3QTU6MzlBMzQ1OjYyMUIyODo1OUZCRDJDMSIsInRpbWVzdGFtcCI6MTUwOTY3NTcxNCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+    <meta name="js-proxy-site-detection-payload" content="NmYyNmUwOTgxZTc2OGVjOTA4YThlMzU5ZWY4M2IzM2E5ZjAzMjJmNzdlNzA2N2RlZTU0ZWMwMTU0YTA1NWE5NHx7InJlbW90ZV9hZGRyZXNzIjoiMjcuMjU1LjE5My4yMDIiLCJyZXF1ZXN0X2lkIjoiRDA4MDo2RTVDOjEyQUIzRjQ6MjFENUI3Qjo1QTEyRjVFMSIsInRpbWVzdGFtcCI6MTUxMTE5MjAzNCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="UNIVERSE_BANNER,FREE_TRIALS">
 
-  <meta name="html-safe-nonce" content="71824e1cf869b589eb823720843d97f28fef77cf">
+  <meta name="html-safe-nonce" content="44f8849ed29ee6b0bd57993ac0c70629b62b8475">
 
-  <meta http-equiv="x-pjax-version" content="c8db5a128fdf9a53ce5d818bc89888c8">
+  <meta http-equiv="x-pjax-version" content="3dd2cf38c13e0efbbb8852c70ba1761d">
   
 
-      <link href="https://github.com/amitphpprogrammer/android-business-app/commits/master.atom" rel="alternate" title="Recent Commits to android-business-app:master" type="application/atom+xml">
+      <link href="https://github.com/amitphpprogrammer/android-business-app/commits/6c962208dcee1470b46c945fd7bf26b91d2729f0.atom" rel="alternate" title="Recent Commits to android-business-app:6c962208dcee1470b46c945fd7bf26b91d2729f0" type="application/atom+xml">
 
   <meta name="description" content="android-business-app - Simple Android Business App with Home Page, About Us Page and Contact Page">
   <meta name="go-import" content="github.com/amitphpprogrammer/android-business-app git https://github.com/amitphpprogrammer/android-business-app.git">
@@ -80,7 +80,7 @@
   <meta content="30019110" name="octolytics-dimension-user_id" /><meta content="amitphpprogrammer" name="octolytics-dimension-user_login" /><meta content="109340992" name="octolytics-dimension-repository_id" /><meta content="amitphpprogrammer/android-business-app" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="109340992" name="octolytics-dimension-repository_network_root_id" /><meta content="amitphpprogrammer/android-business-app" name="octolytics-dimension-repository_network_root_nwo" /><meta content="true" name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" />
 
 
-    <link rel="canonical" href="https://github.com/amitphpprogrammer/android-business-app/blob/master/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/amitphpprogrammer/android-business-app/blob/6c962208dcee1470b46c945fd7bf26b91d2729f0/README.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -127,7 +127,7 @@
               <div class="header-search scoped-search site-scoped-search js-site-search" role="search">
   <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/amitphpprogrammer/android-business-app/search" class="js-site-search-form" data-scoped-search-url="/amitphpprogrammer/android-business-app/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
     <label class="form-control header-search-wrapper js-chromeless-input-container">
-        <a href="/amitphpprogrammer/android-business-app/blob/master/README.md" class="header-search-scope no-underline">This repository</a>
+        <a href="/amitphpprogrammer/android-business-app/blob/6c962208dcee1470b46c945fd7bf26b91d2729f0/README.md" class="header-search-scope no-underline">This repository</a>
       <input type="text"
         class="form-control header-search-input js-site-search-focus js-site-search-field is-clearable"
         data-hotkey="s"
@@ -167,7 +167,7 @@
       <div class="d-flex">
         
 <ul class="user-nav d-flex flex-items-center list-style-none" id="user-links">
-  <li class="dropdown js-menu-container js-header-notifications">
+  <li class="dropdown js-menu-container">
     <span class="d-inline-block  px-2">
       
 
@@ -250,7 +250,7 @@
           Settings
         </a></li>
 
-        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="AMGS6flgda0AiDNUsxFj2Q5ZJRgwjXaCMrrVw+56rIQeH49E6yrJhkaF+uNxShfMFnKmMKZSK3oDuQciFRqA8g==" /></div>
+        <li><!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="jhX2Ed3bEz5Dwc0t3rIrCyza2fL8Vjq8xOsbri+HZiylMaF94s7SHQc7WcJoWTpIqR8X+fQ4qO+iNX4g9+preA==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -261,7 +261,7 @@
 </ul>
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Gar8aTAeMUEgxHh3XJc9d8jKAhqSxl65+z9Nei+0Kd4HdOHEIlSNambJscCezEli0OGBMgQZA0HKPJ+b1NQFqA==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="wiJugLEtm40OcHeKg0w5dyLj5cNBdMLxiusk7FT+flrpBjnsjjharkqK42U1pyg0pyYryEkaUKLsNUFijJNzDg==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -296,7 +296,7 @@
 
         <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="uTfpJOaIU7+7sMGFlEg/UALRQrivejF1bZghtdTCfoE3rsEGYhZvzfo/F7CTukuu5vxVTsVoQn7pBC0W40TeKg==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="109340992" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="D2GVo4kNWuAVvAiEFXAU4x5sqYzRyi368RnWO/NawRuw1IeanmMMCdIaf11gKWnXaihWdQOnVhZAaZGbu8UKCw==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="109340992" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/amitphpprogrammer/android-business-app/subscription"
@@ -376,7 +376,7 @@
   <li>
     
   <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/amitphpprogrammer/android-business-app/unstar" class="starred js-social-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="x3+qdi03fkCiuCbblvhsaP1NYYWQ8NSkcdWNLblH6bu5rCdJCRebcB37F5hWu9TNEpa11I6RyYByXbu5IlT/UQ==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/amitphpprogrammer/android-business-app/unstar" class="starred js-social-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="YFKyBHN+yPl3I7z4YlCdR9jYgRiHNSE7E4gItJWuFdwEJiXqPAZwY4ENAS/mryvglAtPy4H1CCD7Z1JmWSwMYw==" /></div>
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -391,7 +391,7 @@
           0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/amitphpprogrammer/android-business-app/star" class="unstarred js-social-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="1/Q29kYPnWnND+4D0WHB+FaM3zkEsn8ihvdkEzOLsk5N21uiT/GWFr6lE3s3inA7YYhFEG91cTHPRgVmzLdk+w==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/amitphpprogrammer/android-business-app/star" class="unstarred js-social-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="iUWug1XSs5H0Ibd1cXnDHrLLnC7hzYKfXhXVnzMJx8Uu/H3t5SzomO4vKkc7D6pmRjSFrW8AbhZQKGK9r3EwVg==" /></div>
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -410,7 +410,7 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/amitphpprogrammer/android-business-app/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="60lJ/mrrJ4PF4H2rrQME8G7SyjLXNEMD2PAEGZE0NjdpThxr48NOTLyb2HXkZlkmKSRDxImvWPGYyH8wE2To3Q==" /></div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/amitphpprogrammer/android-business-app/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="+N2weLeuDea72YasqhUO7k/s/z4t+OFswBkFJTveI+CuBvQvRs8FC3oZ9Zl3lyqML/3/L3iTCk/8QgGTmb9amA==" /></div>
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -494,9 +494,9 @@
   <div class="repository-content">
 
     
-  <a href="/amitphpprogrammer/android-business-app/blob/9fc2ce798d279cf7efa1a1a32e8fc78522b63b1b/README.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
+  <a href="/amitphpprogrammer/android-business-app/blob/6c962208dcee1470b46c945fd7bf26b91d2729f0/README.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-  <!-- blob contrib key: blob_contributors:v21:3d8bdf56cda7a05b1158b7ab289eb877 -->
+  <!-- blob contrib key: blob_contributors:v21:f46fc460557a4d92ee10065fae0153cd -->
 
   <div class="file-navigation js-zeroclipboard-container">
     
@@ -504,8 +504,8 @@
   <button class=" btn btn-sm select-menu-button js-menu-target css-truncate" data-hotkey="w"
     
     type="button" aria-label="Switch branches or tags" aria-expanded="false" aria-haspopup="true">
-      <i>Branch:</i>
-      <span class="js-select-button css-truncate-target">master</span>
+      <i>Tree:</i>
+      <span class="js-select-button css-truncate-target">6c962208dc</span>
   </button>
 
   <div class="select-menu-modal-holder js-menu-content js-navigation-container" data-pjax>
@@ -537,7 +537,7 @@
         <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
 
 
-            <a class="select-menu-item js-navigation-item js-navigation-open selected"
+            <a class="select-menu-item js-navigation-item js-navigation-open "
                href="/amitphpprogrammer/android-business-app/blob/master/README.md"
                data-name="master"
                data-skip-pjax="true"
@@ -549,14 +549,14 @@
             </a>
         </div>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/amitphpprogrammer/android-business-app/branches" class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="QgMSNnBjMW5PFse7uSiD1ZXfkDolSLds0T8BocZNS3m7rbGlfNO5QR52ZZSF8MhmAWok9r/vdzFfPs0DRRwmMg==" /></div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/amitphpprogrammer/android-business-app/branches" class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="mnBAp8b3j54+tEWQ61MufsPR/WB/1t2AXthVYHdQqB+lT2NakuDUiA378TmuvgDiNW7kx2bWrZOixq9kSWlf1Q==" /></div>
           <svg aria-hidden="true" class="octicon octicon-git-branch select-menu-item-icon" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 5c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v.3c-.02.52-.23.98-.63 1.38-.4.4-.86.61-1.38.63-.83.02-1.48.16-2 .45V4.72a1.993 1.993 0 0 0-1-3.72C.88 1 0 1.89 0 3a2 2 0 0 0 1 1.72v6.56c-.59.35-1 .99-1 1.72 0 1.11.89 2 2 2 1.11 0 2-.89 2-2 0-.53-.2-1-.53-1.36.09-.06.48-.41.59-.47.25-.11.56-.17.94-.17 1.05-.05 1.95-.45 2.75-1.25S8.95 7.77 9 6.73h-.02C9.59 6.37 10 5.73 10 5zM2 1.8c.66 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2C1.35 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2zm0 12.41c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm6-8c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
             <div class="select-menu-item-text">
               <span class="select-menu-item-heading">Create branch: <span class="js-new-item-name"></span></span>
-              <span class="description">from ‘master’</span>
+              <span class="description">from ‘6c96220’</span>
             </div>
             <input type="hidden" name="name" id="name" class="js-new-item-value">
-            <input type="hidden" name="branch" id="branch" value="master">
+            <input type="hidden" name="branch" id="branch" value="6c962208dcee1470b46c945fd7bf26b91d2729f0">
             <input type="hidden" name="path" id="path" value="README.md">
 </form>
       </div>
@@ -575,7 +575,7 @@
 </div>
 
     <div class="BtnGroup float-right">
-      <a href="/amitphpprogrammer/android-business-app/find/master"
+      <a href="/amitphpprogrammer/android-business-app/find/6c962208dcee1470b46c945fd7bf26b91d2729f0"
             class="js-pjax-capture-input btn btn-sm BtnGroup-item"
             data-pjax
             data-hotkey="t">
@@ -584,12 +584,12 @@
       <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm BtnGroup-item tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
     </div>
     <div class="breadcrumb js-zeroclipboard-target">
-      <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/amitphpprogrammer/android-business-app"><span>android-business-app</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+      <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/amitphpprogrammer/android-business-app/tree/6c962208dcee1470b46c945fd7bf26b91d2729f0"><span>android-business-app</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
     </div>
   </div>
 
 
-  <include-fragment class="commit-tease" src="/amitphpprogrammer/android-business-app/contributors/master/README.md">
+  <include-fragment class="commit-tease" src="/amitphpprogrammer/android-business-app/contributors/6c962208dcee1470b46c945fd7bf26b91d2729f0/README.md">
     <div>
       Fetching contributors&hellip;
     </div>
@@ -605,32 +605,30 @@
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a href="/amitphpprogrammer/android-business-app/raw/master/README.md" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
-        <a href="/amitphpprogrammer/android-business-app/blame/master/README.md" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
-      <a href="/amitphpprogrammer/android-business-app/commits/master/README.md" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
+      <a href="/amitphpprogrammer/android-business-app/raw/6c962208dcee1470b46c945fd7bf26b91d2729f0/README.md" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
+        <a href="/amitphpprogrammer/android-business-app/blame/6c962208dcee1470b46c945fd7bf26b91d2729f0/README.md" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
+      <a href="/amitphpprogrammer/android-business-app/commits/6c962208dcee1470b46c945fd7bf26b91d2729f0/README.md" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
     </div>
 
-        <a class="btn-octicon tooltipped tooltipped-nw"
-           href="https://desktop.github.com"
-           aria-label="Open this file in GitHub Desktop"
-           data-ga-click="Repository, open with desktop, type:windows">
+        <button class="btn-octicon disabled tooltipped tooltipped-nw"
+           type="button"
+           disabled
+           aria-label="You must be on a branch to open this file in GitHub Desktop">
             <svg aria-hidden="true" class="octicon octicon-device-desktop" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
-        </a>
+        </button>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/amitphpprogrammer/android-business-app/edit/master/README.md" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="aolmgxcI90LY28KSQDrsVJvOIEwBceDkcImW6UXxLXYHlqm5KQT5eijRFcCJA5crHMzbEeKNwd/fIXKnnaIX6A==" /></div>
-          <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
-            aria-label="Edit this file" data-hotkey="e" data-disable-with>
-            <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
-          </button>
-</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/amitphpprogrammer/android-business-app/delete/master/README.md" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="SDGgA0eXa7WI8mOwsYY7VlRFnGwb4/4PSAlKyfum1PZ0ao5aIDo16u/eowOTUJDUw3LehTc4bNaN+7Rq3swJXw==" /></div>
-          <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
-            aria-label="Delete this file" data-disable-with>
-            <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
-          </button>
-</form>  </div>
+        <button type="button" class="btn-octicon disabled tooltipped tooltipped-nw"
+          aria-label="You must be on a branch to make or propose changes to this file">
+          <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
+        </button>
+        <button type="button" class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw"
+          aria-label="You must be on a branch to make or propose changes to this file">
+          <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
+        </button>
+  </div>
 
   <div class="file-info">
-      48 lines (31 sloc)
+      47 lines (31 sloc)
       <span class="file-info-divider"></span>
     1.77 KB
   </div>
@@ -644,11 +642,11 @@
 report any bugs or feature requests and to see the list of known issues.</p>
 <h2><a href="#license" aria-hidden="true" class="anchor" id="user-content-license"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>License</h2>
 <ul>
-<li><a href="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Version 2.0</a></li>
+<li><a href="http://www.apache.org/licenses/LICENSE-2.0.html" rel="nofollow">Apache Version 2.0</a></li>
 </ul>
 <h2><a href="#building" aria-hidden="true" class="anchor" id="user-content-building"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Building</h2>
 <h3><a href="#with-gradle" aria-hidden="true" class="anchor" id="user-content-with-gradle"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>With Gradle</h3>
-<p>The easiest way to build is to install <a href="https://developer.android.com/sdk/index.html">Android Studio</a> v1.+.
+<p>The easiest way to build is to install <a href="https://developer.android.com/sdk/index.html" rel="nofollow">Android Studio</a> v1.+.
 Once installed, then you can import the project into Android Studio:</p>
 <ol>
 <li>Open <code>File</code></li>
@@ -698,7 +696,7 @@ but will be thoroughly reviewed and discussed.</p>
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between py-6 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2017 <span title="0.17900s from unicorn-386166715-m0mdf">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2017 <span title="0.24316s from unicorn-2876228060-p6tcb">GitHub</span>, Inc.</li>
         <li class="mr-3"><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li class="mr-3"><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li class="mr-3"><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
@@ -733,9 +731,9 @@ but will be thoroughly reviewed and discussed.</p>
 
 
     
-    <script crossorigin="anonymous" integrity="sha256-GoUeLgXvDx7KOOVOmxrZCBAE84EuZPv9+f1M84OmbFU=" src="https://assets-cdn.github.com/assets/frameworks-1a851e2e05ef0f1eca38e54e9b1ad9081004f3812e64fbfdf9fd4cf383a66c55.js"></script>
+    <script crossorigin="anonymous" integrity="sha256-jcO/Gr2eBXCEH7Eho3FRzkoIXKw760RVhxzQvu59TV4=" src="https://assets-cdn.github.com/assets/frameworks-8dc3bf1abd9e0570841fb121a37151ce4a085cac3beb4455871cd0beee7d4d5e.js"></script>
     
-    <script async="async" crossorigin="anonymous" integrity="sha256-7CldbaWY3GwXysjWhhlhPrad31CsnrpupTSOe+S8xyQ=" src="https://assets-cdn.github.com/assets/github-ec295d6da598dc6c17cac8d68619613eb69ddf50ac9eba6ea5348e7be4bcc724.js"></script>
+    <script async="async" crossorigin="anonymous" integrity="sha256-tsyTMhvvxtSn48/BPqBu0mkQX20AZGKnchOdw9obE8k=" src="https://assets-cdn.github.com/assets/github-b6cc93321befc6d4a7e3cfc13ea06ed269105f6d006462a772139dc3da1b13c9.js"></script>
     
     
     
